@@ -110,4 +110,8 @@
     <!--PA version-->
     <string name="pa_version">ParanoidAndroid version</string>
     <string name="pa_version_default">Unknown</string>
+
+    <!-- AOSPAL build date -->
+    <string name="build_date">AOSPAL build date</string>
+    <string name="build_date_default">Unknown</string>
 </resources>
